@@ -1,1 +1,1 @@
-# Hotel-App-via-QT-and-MySQL
+# Zeeshan-Malik
